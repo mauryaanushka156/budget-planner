@@ -29,4 +29,4 @@ The **Personal Budget Planner** is a full-stack Java-based web application that 
 - DOM Manipulation and Event Handling in JavaScript  
 - Git and GitHub for commit, push, pull, branching, and collaboration  
 
----
+
