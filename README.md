@@ -30,8 +30,3 @@ The **Personal Budget Planner** is a full-stack Java-based web application that 
 - Git and GitHub for commit, push, pull, branching, and collaboration  
 
 ---
-
-## 🚀 How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/budget-planner.git
